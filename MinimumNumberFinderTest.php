@@ -1,6 +1,4 @@
 <?php
-namespace frontend\modules\api\leprica\recourses;
-
 
 use PHPUnit\Framework\TestCase;
 
